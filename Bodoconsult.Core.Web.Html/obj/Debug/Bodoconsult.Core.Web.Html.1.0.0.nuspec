@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bodoconsult.Core.Web.Html</id>
+    <version>1.0.0</version>
+    <authors>Robert Leisner</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Bodoconsult.Core.Web.Html library contains tools for HTML markup creation like formatting DataTables as HTML etc.</description>
+    <tags>HTML DataTable System.Data markup</tags>
+    <repository type="git" url="https://github.com/RobertLeisner/Bodoconsult.Core.Tools.Zip" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Daten\Projekte\Tools\Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html\bin\Debug\netstandard2.0\Bodoconsult.Core.Web.Html.dll" target="lib\netstandard2.0\Bodoconsult.Core.Web.Html.dll" />
+  </files>
+</package>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bodoconsult.Core.Web.Html", "Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html.csproj", "{27792CEC-E90F-4352-B716-EB064E749F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bodoconsult.Core.Web.Html.Test", "Bodoconsult.Core.Web.Html.Test\Bodoconsult.Core.Web.Html.Test.csproj", "{364B093F-8C75-487D-8B92-FDE5041452A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27792CEC-E90F-4352-B716-EB064E749F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27792CEC-E90F-4352-B716-EB064E749F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27792CEC-E90F-4352-B716-EB064E749F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27792CEC-E90F-4352-B716-EB064E749F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364B093F-8C75-487D-8B92-FDE5041452A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364B093F-8C75-487D-8B92-FDE5041452A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364B093F-8C75-487D-8B92-FDE5041452A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364B093F-8C75-487D-8B92-FDE5041452A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18400F45-7506-4BFA-A8E9-F7C072F60C04}
+	EndGlobalSection
+EndGlobal
