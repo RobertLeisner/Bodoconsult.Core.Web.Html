@@ -1,7 +1,0 @@
-D:\Daten\Projekte\Tools\Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html\bin\Debug\netstandard2.0\Bodoconsult.Core.Web.Html.deps.json
-D:\Daten\Projekte\Tools\Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html\bin\Debug\netstandard2.0\Bodoconsult.Core.Web.Html.dll
-D:\Daten\Projekte\Tools\Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html\bin\Debug\netstandard2.0\Bodoconsult.Core.Web.Html.pdb
-D:\Daten\Projekte\Tools\Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html\obj\Debug\netstandard2.0\Bodoconsult.Core.Web.Html.csprojAssemblyReference.cache
-D:\Daten\Projekte\Tools\Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html\obj\Debug\netstandard2.0\Bodoconsult.Core.Web.Html.csproj.CoreCompileInputs.cache
-D:\Daten\Projekte\Tools\Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html\obj\Debug\netstandard2.0\Bodoconsult.Core.Web.Html.dll
-D:\Daten\Projekte\Tools\Bodoconsult.Core.Web.Html\Bodoconsult.Core.Web.Html\obj\Debug\netstandard2.0\Bodoconsult.Core.Web.Html.pdb
